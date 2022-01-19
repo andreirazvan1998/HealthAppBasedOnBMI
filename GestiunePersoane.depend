@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1642596750 source:c:\users\asus\documents\gestiunepersoane\main.c
+	"persoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1642600551 source:c:\users\asus\documents\gestiunepersoane\persoane.c
+	"persoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1642593950 c:\users\asus\documents\gestiunepersoane\persoane.h
+	<stdio.h>
+	<stdlib.h>
+
